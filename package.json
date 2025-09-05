@@ -1,9 +1,17 @@
 {
   "name": "sprint-scrum-proyecto",
   "version": "1.0.0",
-  "description": "Proyecto de práctica de SCRUM con Sprint en React !!!!!!!!!!!",
-  "main": "src/main.jsx",
-  "scripts": {},
-  "author": "Rodrigo Figueroa Arguello",
-  "license": "MIT"
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
 }
