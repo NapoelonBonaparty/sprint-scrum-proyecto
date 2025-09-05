@@ -28,5 +28,4 @@ El objetivo es aplicar la metodología ágil **SCRUM** en un proyecto de desarro
 
 ---
 
-##  Estructura del proyecto
 
