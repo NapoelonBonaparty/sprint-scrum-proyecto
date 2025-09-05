@@ -19,7 +19,7 @@ El objetivo es aplicar la metodología ágil **SCRUM** en un proyecto de desarro
 
 ---
 
-## 🛠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - ReactJS (con Vite o Create React App)
 - HTML5, CSS3, JavaScript
